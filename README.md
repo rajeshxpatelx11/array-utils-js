@@ -1,2 +1,4 @@
-# array-utils-js
+# Array Utils Js
+
 Dynamic array operations helper functions in JavaScript.
+
